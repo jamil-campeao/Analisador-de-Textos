@@ -39,7 +39,7 @@ npm install commander
 ```
 3. **Execute o programa**:
 ```bash
-node src/index.js --texto ./arquivos/exemplo.txt --destino ./resultado
+node src/index.js --texto ./arquivos/texto-aprendizado.txt --destino ./resultado
 ```
 
 4. Resultado:
